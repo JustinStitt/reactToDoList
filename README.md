@@ -3,7 +3,7 @@
 
 I absolutely despise front-end development, yet here I am. 🤔
 
-Check out the app here: ![To-Do List](https://justinstitt.github.io/reactToDoList/)
+Check out the app here: [To-Do List](https://justinstitt.github.io/reactToDoList/)
 
 ##### React makes interactive websites easier by splitting up the page via components.
 
@@ -22,4 +22,4 @@ displays all items in our todo list which is passed from App.js->Form.js->FormLi
 
 * https://www.youtube.com/watch?v=pCA4qpQDZD8
 * https://www.youtube.com/watch?v=ctLFWAanxcI&t=309s
-* ![React docs](https://reactjs.org/docs/getting-started.html)
+* [React docs](https://reactjs.org/docs/getting-started.html)
