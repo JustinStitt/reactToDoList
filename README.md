@@ -22,6 +22,9 @@ Your ToDo List is cached locally. The completed/uncompleted status is also saved
 
 To clear your local storage, open dev console (F12 on windows), navigate to "Storage" and clear "Local Storage"
 
+## GIF
+![](imgs/todoGIF.gif)
+
 
 ## Resources:
 --
